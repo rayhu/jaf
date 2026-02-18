@@ -1,3 +1,10 @@
+---
+title: "Funding and Transparency"
+description: "Funding structure, donor concentration limits, financial segregation, Form 990 compliance, and governance independence from funding."
+slug: "funding"
+layout: "simple"
+---
+
 # Funding and Transparency
 
 ---

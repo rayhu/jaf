@@ -1,3 +1,10 @@
+---
+title: "Donar"
+description: "Apoye el acceso caritativo a la justicia en California. Contribuciones deducibles de impuestos a los programas 501(c)(3) de JAF."
+slug: "donate"
+layout: "simple"
+---
+
 # Donar
 
 ---

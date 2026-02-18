@@ -1,3 +1,10 @@
+---
+title: "Governance"
+description: "Board structure, volunteer principle, conflict of interest policy, financial oversight mechanisms, and dissolution clause."
+slug: "governance"
+layout: "simple"
+---
+
 # Governance
 
 ---

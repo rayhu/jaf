@@ -1,3 +1,10 @@
+---
+title: "Board Recruitment"
+description: "Qualifications, governance expectations, reputation standards, and how to express interest in serving on JAF's volunteer Board of Directors."
+slug: "board"
+layout: "simple"
+---
+
 # Board Recruitment
 
 ---

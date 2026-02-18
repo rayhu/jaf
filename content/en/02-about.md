@@ -1,3 +1,10 @@
+---
+title: "About Us"
+description: "Legal identity, public charity classification, governance independence, and geographic focus of Justice Access Foundation."
+slug: "about"
+layout: "simple"
+---
+
 # About Justice Access Foundation
 
 ---

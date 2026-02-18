@@ -1,3 +1,10 @@
+---
+title: "Reclutamiento para la Junta"
+description: "Calificaciones, expectativas de gobernanza, estándares de reputación y cómo expresar interés en la Junta Directiva voluntaria de JAF."
+slug: "board"
+layout: "simple"
+---
+
 # Reclutamiento para la Junta Directiva
 
 ---

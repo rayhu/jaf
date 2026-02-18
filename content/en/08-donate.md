@@ -1,3 +1,10 @@
+---
+title: "Donate"
+description: "Support charitable access to justice in California. Tax-deductible contributions to JAF's 501(c)(3) programs."
+slug: "donate"
+layout: "simple"
+---
+
 # Donate
 
 ---

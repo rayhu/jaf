@@ -1,3 +1,10 @@
+---
+title: "捐款"
+description: "支持加利福尼亚州的慈善性司法获取。向基金会501(c)(3)项目的捐款可享税务抵扣。"
+slug: "donate"
+layout: "simple"
+---
+
 # 捐款
 
 ---

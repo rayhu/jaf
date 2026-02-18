@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justice Access Foundation</title>
+    <link>http://localhost:1313/es/</link>
+    <description>Recent content on Justice Access Foundation</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cumplimiento y Estado Legal</title>
+      <link>http://localhost:1313/es/compliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Donar</title>
+      <link>http://localhost:1313/es/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/donate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financiamiento y Transparencia</title>
+      <link>http://localhost:1313/es/funding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/funding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gobernanza</title>
+      <link>http://localhost:1313/es/governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/governance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programas</title>
+      <link>http://localhost:1313/es/programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/programs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reclutamiento para la Junta</title>
+      <link>http://localhost:1313/es/board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/board/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sobre Nosotros</title>
+      <link>http://localhost:1313/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

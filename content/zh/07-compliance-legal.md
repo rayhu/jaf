@@ -1,3 +1,10 @@
+---
+title: "合规与法律状态"
+description: "501(c)(3)认定、公共慈善机构与私人基金会的区别、公众支持测试及禁止私人利益转移。"
+slug: "compliance"
+layout: "simple"
+---
+
 # 合规与法律状态
 
 ---

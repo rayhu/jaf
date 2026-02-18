@@ -1,3 +1,10 @@
+---
+title: "Financiamiento y Transparencia"
+description: "Estructura de financiamiento, límites de concentración de donantes, segregación financiera, cumplimiento del Formulario 990 e independencia de gobernanza."
+slug: "funding"
+layout: "simple"
+---
+
 # Financiamiento y Transparencia
 
 ---

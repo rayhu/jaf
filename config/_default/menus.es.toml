@@ -1,0 +1,51 @@
+[[main]]
+  name   = "Nosotros"
+  url    = "/es/about/"
+  weight = 10
+
+[[main]]
+  name   = "Programas"
+  url    = "/es/programs/"
+  weight = 20
+
+[[main]]
+  name   = "Gobernanza"
+  url    = "/es/governance/"
+  weight = 30
+
+[[main]]
+  name   = "Financiamiento"
+  url    = "/es/funding/"
+  weight = 40
+
+[[main]]
+  name   = "Junta"
+  url    = "/es/board/"
+  weight = 50
+
+[[main]]
+  name   = "Cumplimiento"
+  url    = "/es/compliance/"
+  weight = 60
+
+[[main]]
+  name   = "Donar"
+  url    = "/es/donate/"
+  weight = 70
+
+# ─── Footer links ─────────────────────────────────────────────────────────────
+
+[[footer]]
+  name   = "Nosotros"
+  url    = "/es/about/"
+  weight = 10
+
+[[footer]]
+  name   = "Cumplimiento"
+  url    = "/es/compliance/"
+  weight = 20
+
+[[footer]]
+  name   = "Donar"
+  url    = "/es/donate/"
+  weight = 30

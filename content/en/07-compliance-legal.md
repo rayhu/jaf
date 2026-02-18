@@ -1,3 +1,10 @@
+---
+title: "Compliance and Legal Status"
+description: "501(c)(3) recognition, public charity vs. private foundation distinction, public support test, Form 1023, Form 990, and private inurement prohibition."
+slug: "compliance"
+layout: "simple"
+---
+
 # Compliance and Legal Status
 
 ---

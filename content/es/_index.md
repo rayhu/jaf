@@ -1,0 +1,41 @@
+---
+title: "Justice Access Foundation"
+description: "Ampliando el acceso a la justicia civil en California — organización de caridad pública reconocida por el IRS bajo 501(c)(3)."
+layout: "simple"
+---
+
+**Ampliando el Acceso a la Justicia Civil en California**
+
+---
+
+Justice Access Foundation (JAF) es una corporación pública sin fines de lucro de California y una organización de caridad pública reconocida por el IRS bajo la sección 501(c)(3). Nuestra misión es ampliar el acceso al sistema legal civil, proteger los derechos al debido proceso y trabajar para prevenir la inestabilidad habitacional, el robo de salarios y la explotación que afecta a personas y familias en California que carecen de recursos legales adecuados.
+
+---
+
+## Áreas Programáticas
+
+**Prevención de la Inestabilidad Habitacional**
+Educación legal, información procesal y coordinación de derivaciones para residentes de bajos ingresos que enfrentan procedimientos de vivienda y acciones de desahucio en California.
+
+**Protección Salarial y Justicia Económica**
+Acceso a información y recursos legales para trabajadores que enfrentan salarios impagos, deducciones ilegales u otras formas de robo salarial bajo las leyes de California y federales.
+
+**Equidad Procesal y Apoyo para la Orientación en Tribunales**
+Asistencia a personas que se representan a sí mismas para comprender los procedimientos del tribunal civil, los plazos de respuesta y los requisitos de presentación. JAF no proporciona representación legal.
+
+**Educación Legal Pública y Alfabetización**
+Información legal en lenguaje claro en inglés, español y chino simplificado para apoyar la participación informada en procedimientos legales.
+
+---
+
+## Integridad de Gobernanza
+
+JAF está gobernada por una Junta Directiva voluntaria e independiente. Ningún director recibe compensación. Todas las decisiones de gobernanza son tomadas por la Junta sin influencia de donantes, entidades comerciales u organizaciones afiliadas. La actividad financiera se divulga anualmente a través de los registros públicos del Formulario 990 del IRS.
+
+---
+
+## Apoye Nuestro Trabajo
+
+Su contribución apoya programas caritativos que sirven a los californianos que necesitan acceso legal civil. JAF es una organización de caridad pública registrada bajo 501(c)(3) (EIN: [Por Determinar]). Las donaciones son deducibles de impuestos en la medida permitida por la ley. Ninguna contribución otorga derecho alguno a influir en las decisiones de gobernanza o programa de la organización.
+
+[Donar →](/es/donate/)

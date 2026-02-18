@@ -1,0 +1,34 @@
+baseURL = "https://justiceaccessfoundation.org/"
+title   = "Justice Access Foundation"
+
+enableRobotsTXT = true
+summaryLength   = 0
+
+defaultContentLanguage        = "en"
+defaultContentLanguageInSubdir = false
+
+[module]
+  [[module.imports]]
+    path = "github.com/jpanther/congo/v2"
+
+# ─── Languages ────────────────────────────────────────────────────────────────
+
+[languages]
+
+  [languages.en]
+    title        = "Justice Access Foundation"
+    languageName = "English"
+    weight       = 1
+    contentDir   = "content/en"
+
+  [languages.es]
+    title        = "Justice Access Foundation"
+    languageName = "Español"
+    weight       = 2
+    contentDir   = "content/es"
+
+  [languages.zh]
+    title        = "正义获取基金会"
+    languageName = "中文"
+    weight       = 3
+    contentDir   = "content/zh"

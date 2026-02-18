@@ -1,3 +1,10 @@
+---
+title: "Programas"
+description: "Programas caritativos para prevenir la inestabilidad habitacional, el robo salarial y proporcionar orientación en tribunales y educación legal en California."
+slug: "programs"
+layout: "simple"
+---
+
 # Programas
 
 Justice Access Foundation opera programas caritativos estructurados en las siguientes áreas. Todos los programas son de naturaleza caritativa y están diseñados para servir a una clase indefinida de beneficiarios en California. Ningún programa está condicionado a la adquisición o uso de ningún servicio comercial, ni vinculado a este.

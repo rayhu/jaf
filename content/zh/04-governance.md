@@ -1,3 +1,10 @@
+---
+title: "治理"
+description: "董事会结构、志愿原则、利益冲突政策、财务监督机制及解散条款。"
+slug: "governance"
+layout: "simple"
+---
+
 # 治理
 
 ---

@@ -1,3 +1,10 @@
+---
+title: "Gobernanza"
+description: "Estructura de la junta, principio voluntario, política de conflicto de intereses, supervisión financiera y cláusula de disolución."
+slug: "governance"
+layout: "simple"
+---
+
 # Gobernanza
 
 ---

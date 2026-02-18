@@ -1,3 +1,10 @@
+---
+title: "Programs"
+description: "Charitable programs preventing housing instability, wage theft, and providing court navigation support and legal education across California."
+slug: "programs"
+layout: "simple"
+---
+
 # Programs
 
 Justice Access Foundation operates structured charitable programs in the following areas. All programs are charitable in nature and are designed to serve an indefinite class of beneficiaries in California. No program is conditioned on or connected to the purchase or use of any commercial service.

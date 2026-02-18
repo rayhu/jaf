@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://localhost:1313/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/es/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh"
+              href="http://localhost:1313/zh/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/about/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/board/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/es/board/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh"
+              href="http://localhost:1313/zh/board/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/board/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/compliance/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/es/compliance/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh"
+              href="http://localhost:1313/zh/compliance/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/compliance/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/donate/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/es/donate/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh"
+              href="http://localhost:1313/zh/donate/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/donate/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/funding/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/es/funding/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh"
+              href="http://localhost:1313/zh/funding/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/funding/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/governance/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/es/governance/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh"
+              href="http://localhost:1313/zh/governance/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/governance/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/es/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh"
+              href="http://localhost:1313/zh/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/programs/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="http://localhost:1313/es/programs/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh"
+              href="http://localhost:1313/zh/programs/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/programs/"
+              />
+          </url>
+    
+  
+    
+  
+</urlset>

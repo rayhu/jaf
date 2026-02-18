@@ -1,0 +1,51 @@
+/*
+ * JAF — Minor institutional refinements on top of Congo's slate scheme.
+ * Keep this file minimal; Congo's defaults handle most typography.
+ */
+
+/* Slightly increase base font size for long-form content readability */
+:root {
+  --font-size-base: 1.0rem;
+}
+
+/* Use a more institutional serif stack for headings */
+h1, h2, h3 {
+  font-family: "Georgia", "Times New Roman", serif;
+  letter-spacing: -0.01em;
+}
+
+/* Tighter line-height on the nav for more compact header */
+nav a {
+  letter-spacing: 0.02em;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+}
+
+/* Ensure comparison tables render cleanly */
+table {
+  font-size: 0.875rem;
+  width: 100%;
+}
+
+th {
+  background-color: rgba(0,0,0,0.04);
+  font-weight: 600;
+}
+
+/* Subtle left border on blockquote / compliance callouts */
+blockquote {
+  border-left: 3px solid currentColor;
+  opacity: 0.85;
+}
+
+/* Donate link rendered as a button-like call-to-action */
+a[href$="/donate/"],
+a[href$="/es/donate/"],
+a[href$="/zh/donate/"] {
+  display: inline-block;
+  padding: 0.4rem 1.1rem;
+  border: 1.5px solid currentColor;
+  border-radius: 2px;
+  font-weight: 600;
+  text-decoration: none;
+}

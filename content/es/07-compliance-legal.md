@@ -1,3 +1,10 @@
+---
+title: "Cumplimiento y Estado Legal"
+description: "Reconocimiento 501(c)(3), distinción entre caridad pública y fundación privada, prueba de apoyo público y prohibición de enriquecimiento privado."
+slug: "compliance"
+layout: "simple"
+---
+
 # Cumplimiento y Estado Legal
 
 ---
