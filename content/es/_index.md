@@ -14,17 +14,37 @@ Justice Access Foundation (JAF) es una corporación pública sin fines de lucro 
 
 ## Áreas Programáticas
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;margin:1.5rem 0">
+
+<div>
+<img src="/img/icons/housing.svg" alt="Ícono de vivienda" width="48" height="48">
+
 **Prevención de la Inestabilidad Habitacional**
 Educación legal, información procesal y coordinación de derivaciones para residentes de bajos ingresos que enfrentan procedimientos de vivienda y acciones de desahucio en California.
+</div>
+
+<div>
+<img src="/img/icons/wages.svg" alt="Ícono de protección salarial" width="48" height="48">
 
 **Protección Salarial y Justicia Económica**
 Acceso a información y recursos legales para trabajadores que enfrentan salarios impagos, deducciones ilegales u otras formas de robo salarial bajo las leyes de California y federales.
+</div>
+
+<div>
+<img src="/img/icons/court.svg" alt="Ícono de orientación en tribunales" width="48" height="48">
 
 **Equidad Procesal y Apoyo para la Orientación en Tribunales**
 Asistencia a personas que se representan a sí mismas para comprender los procedimientos del tribunal civil, los plazos de respuesta y los requisitos de presentación. JAF no proporciona representación legal.
+</div>
+
+<div>
+<img src="/img/icons/education.svg" alt="Ícono de educación legal" width="48" height="48">
 
 **Educación Legal Pública y Alfabetización**
 Información legal en lenguaje claro en inglés, español y chino simplificado para apoyar la participación informada en procedimientos legales.
+</div>
+
+</div>
 
 ---
 

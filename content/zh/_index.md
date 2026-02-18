@@ -14,17 +14,37 @@ layout: "simple"
 
 ## 项目领域
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;margin:1.5rem 0">
+
+<div>
+<img src="/img/icons/housing.svg" alt="住房图标" width="48" height="48">
+
 **预防住房不稳定**
 为面临住房程序和驱逐行动的低收入居民提供法律教育、程序信息及转介协调服务。
+</div>
+
+<div>
+<img src="/img/icons/wages.svg" alt="工资保护图标" width="48" height="48">
 
 **工资保护与经济公正**
 为面临欠薪、非法扣款或其他形式工资盗取的工人提供获取法律信息和资源的渠道。
+</div>
+
+<div>
+<img src="/img/icons/court.svg" alt="法院导航图标" width="48" height="48">
 
 **程序公平与法院导航支持**
 协助自我代理当事人了解民事法院程序、答复期限及申请要求。基金会不提供法律代理服务。
+</div>
+
+<div>
+<img src="/img/icons/education.svg" alt="法律教育图标" width="48" height="48">
 
 **公众法律教育与法律素养**
 以英语、西班牙语及简体中文编制并发布简明法律信息，支持公众知情参与法律程序。
+</div>
+
+</div>
 
 ---
 

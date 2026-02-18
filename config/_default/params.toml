@@ -9,9 +9,14 @@ enableSearch      = false
 enableCodeCopy    = false
 showAppearanceSwitcher = false
 
+# ─── Logo ─────────────────────────────────────────────────────────────────────
+logo     = "img/logo.svg"       # light-mode header logo (relative to assets/)
+logoDark = "img/logo-dark.svg"  # dark-mode header logo
+
 # ─── Header ───────────────────────────────────────────────────────────────────
 [header]
-  layout = "basic"   # Clean horizontal nav; no hamburger
+  layout    = "basic"   # Clean horizontal nav; no hamburger
+  showTitle = false     # Logo SVG already contains the organization name
 
 # ─── Footer ───────────────────────────────────────────────────────────────────
 [footer]
