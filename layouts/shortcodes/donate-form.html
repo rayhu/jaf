@@ -1,0 +1,134 @@
+{{ $lang := .Page.Language.Lang }}
+{{ if eq $lang "es" }}
+  {{ $action := "/es/gracias/" }}
+  <div class="jaf-card">
+    <div class="jaf-card-header">
+      <p class="jaf-card-org">Justice Access Foundation &middot; Organización de Caridad Pública 501(c)(3)</p>
+      <h2 class="jaf-card-title">Consulta de Donación Caritativa</h2>
+      <p class="jaf-card-sub">Envíe una consulta de donación. Nuestro equipo le contactará con instrucciones de pago en un plazo de cinco días hábiles.</p>
+    </div>
+    <div class="jaf-card-body">
+      <form name="donacion" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/es/gracias/">
+        <input type="hidden" name="form-name" value="donacion">
+        <input type="hidden" name="lang" value="es">
+        <p class="jaf-honeypot" aria-hidden="true"><label>No llene este campo: <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <div class="jaf-amounts">
+          <p class="jaf-section-label" id="amount-legend-es">Monto de Donación</p>
+          <div class="jaf-amount-grid" role="radiogroup" aria-labelledby="amount-legend-es">
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="25" aria-label="Veinticinco dólares"><span class="jaf-amount-face"><span class="jaf-amount-value">$25</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="50" aria-label="Cincuenta dólares"><span class="jaf-amount-face"><span class="jaf-amount-value">$50</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="100" aria-label="Cien dólares" checked><span class="jaf-amount-face"><span class="jaf-amount-value">$100</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="250" aria-label="Doscientos cincuenta dólares"><span class="jaf-amount-face"><span class="jaf-amount-value">$250</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="custom" id="custom-radio-es" aria-label="Monto personalizado"><span class="jaf-amount-face"><span class="jaf-amount-value">Otro</span></span></label>
+          </div>
+          <div class="jaf-custom-row" id="custom-row-es" aria-live="polite">
+            <span class="jaf-custom-prefix" aria-hidden="true">$</span>
+            <input type="number" class="jaf-custom-input" id="custom-amount-es" name="custom-amount" min="1" step="1" placeholder="Ingrese monto" aria-label="Monto personalizado en dólares">
+          </div>
+        </div>
+        <div class="jaf-fields">
+          <p class="jaf-section-label">Información del Donante</p>
+          <div class="jaf-field-row">
+            <div class="jaf-field"><label for="donor-name-es">Nombre Completo <span class="req" aria-label="requerido">*</span></label><input type="text" id="donor-name-es" name="name" required autocomplete="name" placeholder="Nombre legal completo"></div>
+            <div class="jaf-field"><label for="donor-email-es">Correo Electrónico <span class="req" aria-label="requerido">*</span></label><input type="email" id="donor-email-es" name="email" required autocomplete="email" placeholder="usted@ejemplo.com"></div>
+          </div>
+          <div class="jaf-field"><label for="donor-note-es">Nota <span class="opt">(opcional)</span></label><textarea id="donor-note-es" name="note" placeholder="Restricciones, designaciones o notas para nuestros registros"></textarea></div>
+        </div>
+        <div class="jaf-submit-section">
+          <button type="submit" class="jaf-submit-btn">Enviar Consulta de Donación</button>
+          <p class="jaf-fine-print">JAF es una organización de caridad pública 501(c)(3) (EIN: [Por Determinar]). Las contribuciones son deducibles de impuestos en la medida permitida por la ley. Ninguna contribución otorga derecho a influir en la gobernanza o decisiones del programa. Se proporcionará acuse de recibo escrito por contribuciones de $250 o más según lo requiere el IRC §170(f)(8).</p>
+        </div>
+      </form>
+    </div>
+  </div>
+  <script>
+  (function(){var r=document.getElementById('custom-radio-es'),w=document.getElementById('custom-row-es'),i=document.getElementById('custom-amount-es'),a=document.querySelectorAll('input[name="amount"]');function u(){var s=r.checked;w.classList.toggle('is-visible',s);i.required=s;if(s)i.focus();else i.value='';}a.forEach(function(x){x.addEventListener('change',u);});u();}());
+  </script>
+{{ else if eq $lang "zh" }}
+  <div class="jaf-card">
+    <div class="jaf-card-header">
+      <p class="jaf-card-org">正义获取基金会 &middot; 加利福尼亚州 501(c)(3) 公共慈善机构</p>
+      <h2 class="jaf-card-title">慈善捐款咨询</h2>
+      <p class="jaf-card-sub">提交捐款咨询，我们的团队将在五个工作日内与您联系，提供安全付款说明。</p>
+    </div>
+    <div class="jaf-card-body">
+      <form name="juankuan" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/zh/xiesie/">
+        <input type="hidden" name="form-name" value="juankuan">
+        <input type="hidden" name="lang" value="zh">
+        <p class="jaf-honeypot" aria-hidden="true"><label>请勿填写此字段: <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <div class="jaf-amounts">
+          <p class="jaf-section-label" id="amount-legend-zh">捐款金额</p>
+          <div class="jaf-amount-grid" role="radiogroup" aria-labelledby="amount-legend-zh">
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="25" aria-label="二十五美元"><span class="jaf-amount-face"><span class="jaf-amount-value">$25</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="50" aria-label="五十美元"><span class="jaf-amount-face"><span class="jaf-amount-value">$50</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="100" aria-label="一百美元" checked><span class="jaf-amount-face"><span class="jaf-amount-value">$100</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="250" aria-label="两百五十美元"><span class="jaf-amount-face"><span class="jaf-amount-value">$250</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="custom" id="custom-radio-zh" aria-label="自定义金额"><span class="jaf-amount-face"><span class="jaf-amount-value">其他</span></span></label>
+          </div>
+          <div class="jaf-custom-row" id="custom-row-zh" aria-live="polite">
+            <span class="jaf-custom-prefix" aria-hidden="true">$</span>
+            <input type="number" class="jaf-custom-input" id="custom-amount-zh" name="custom-amount" min="1" step="1" placeholder="输入金额" aria-label="自定义捐款金额（美元）">
+          </div>
+        </div>
+        <div class="jaf-fields">
+          <p class="jaf-section-label">捐赠者信息</p>
+          <div class="jaf-field-row">
+            <div class="jaf-field"><label for="donor-name-zh">姓名 <span class="req" aria-label="必填">*</span></label><input type="text" id="donor-name-zh" name="name" required autocomplete="name" placeholder="法定姓名全称"></div>
+            <div class="jaf-field"><label for="donor-email-zh">电子邮件 <span class="req" aria-label="必填">*</span></label><input type="email" id="donor-email-zh" name="email" required autocomplete="email" placeholder="您的邮件地址"></div>
+          </div>
+          <div class="jaf-field"><label for="donor-note-zh">备注 <span class="opt">（选填）</span></label><textarea id="donor-note-zh" name="note" placeholder="捐款限制、指定用途或备注事项"></textarea></div>
+        </div>
+        <div class="jaf-submit-section">
+          <button type="submit" class="jaf-submit-btn">提交捐款咨询</button>
+          <p class="jaf-fine-print">基金会为501(c)(3)公共慈善机构（雇主识别号：待定）。捐款在法律允许范围内可作税务抵扣。任何捐款均不赋予捐赠者对治理或项目决策的影响权。250美元及以上的捐款将依据IRC §170(f)(8)提供书面确认函。</p>
+        </div>
+      </form>
+    </div>
+  </div>
+  <script>
+  (function(){var r=document.getElementById('custom-radio-zh'),w=document.getElementById('custom-row-zh'),i=document.getElementById('custom-amount-zh'),a=document.querySelectorAll('input[name="amount"]');function u(){var s=r.checked;w.classList.toggle('is-visible',s);i.required=s;if(s)i.focus();else i.value='';}a.forEach(function(x){x.addEventListener('change',u);});u();}());
+  </script>
+{{ else }}
+  <div class="jaf-card">
+    <div class="jaf-card-header">
+      <p class="jaf-card-org">Justice Access Foundation &middot; California 501(c)(3)</p>
+      <h2 class="jaf-card-title">Charitable Donation Inquiry</h2>
+      <p class="jaf-card-sub">Submit a donation inquiry. Our team will follow up with secure payment instructions within five business days.</p>
+    </div>
+    <div class="jaf-card-body">
+      <form name="donation-inquiry" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
+        <input type="hidden" name="form-name" value="donation-inquiry">
+        <p class="jaf-honeypot" aria-hidden="true"><label>Do not fill this field: <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <div class="jaf-amounts">
+          <p class="jaf-section-label" id="amount-legend">Giving Amount</p>
+          <div class="jaf-amount-grid" role="radiogroup" aria-labelledby="amount-legend">
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="25" aria-label="Twenty-five dollars"><span class="jaf-amount-face"><span class="jaf-amount-value">$25</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="50" aria-label="Fifty dollars"><span class="jaf-amount-face"><span class="jaf-amount-value">$50</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="100" aria-label="One hundred dollars" checked><span class="jaf-amount-face"><span class="jaf-amount-value">$100</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="250" aria-label="Two hundred fifty dollars"><span class="jaf-amount-face"><span class="jaf-amount-value">$250</span></span></label>
+            <label class="jaf-amount-label"><input type="radio" name="amount" value="custom" id="custom-radio" aria-label="Custom amount"><span class="jaf-amount-face"><span class="jaf-amount-value">Other</span></span></label>
+          </div>
+          <div class="jaf-custom-row" id="custom-row" aria-live="polite">
+            <span class="jaf-custom-prefix" aria-hidden="true">$</span>
+            <input type="number" class="jaf-custom-input" id="custom-amount" name="custom-amount" min="1" step="1" placeholder="Enter amount" aria-label="Custom donation amount in US dollars">
+          </div>
+        </div>
+        <div class="jaf-fields">
+          <p class="jaf-section-label">Donor Information</p>
+          <div class="jaf-field-row">
+            <div class="jaf-field"><label for="donor-name">Full Name <span class="req" aria-label="required">*</span></label><input type="text" id="donor-name" name="name" required autocomplete="name" placeholder="Full legal name"></div>
+            <div class="jaf-field"><label for="donor-email">Email Address <span class="req" aria-label="required">*</span></label><input type="email" id="donor-email" name="email" required autocomplete="email" placeholder="you@example.com"></div>
+          </div>
+          <div class="jaf-field"><label for="donor-note">Note <span class="opt">(optional)</span></label><textarea id="donor-note" name="note" placeholder="Gift restrictions, designations, or notes for our records"></textarea></div>
+        </div>
+        <div class="jaf-submit-section">
+          <button type="submit" class="jaf-submit-btn">Submit Donation Inquiry</button>
+          <p class="jaf-fine-print">JAF is a 501(c)(3) public charity (EIN: [TBD]). Contributions are tax-deductible to the extent permitted by law. No donor contribution confers any right to influence governance or program decisions. A written acknowledgment will be provided for contributions of $250 or more as required by IRC&nbsp;§170(f)(8).</p>
+        </div>
+      </form>
+    </div>
+  </div>
+  <script>
+  (function(){var r=document.getElementById('custom-radio'),w=document.getElementById('custom-row'),i=document.getElementById('custom-amount'),a=document.querySelectorAll('input[name="amount"]');function u(){var s=r.checked;w.classList.toggle('is-visible',s);i.required=s;if(s)i.focus();else i.value='';}a.forEach(function(x){x.addEventListener('change',u);});u();}());
+  </script>
+{{ end }}

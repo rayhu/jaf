@@ -71,15 +71,14 @@ JAF es una organización de caridad pública independiente. Ningún donante, fin
 
 ---
 
-## Cómo Donar
+## Formulario de Consulta de Donación
 
-**En Línea**
-Se aceptan contribuciones seguras en línea a través de [procesador de pago]. Todas las transacciones están cifradas y se reciben automáticamente.
+{{< donate-form >}}
+
+---
 
 **Por Correo**
 Los cheques a nombre de "Justice Access Foundation" pueden enviarse por correo a la oficina principal de JAF.
 
 **Legados y Donaciones Mayores**
-Para información sobre opciones de donaciones planificadas o acuerdos de donaciones mayores, comuníquese con el Comité de Desarrollo de la Junta de JAF.
-
-[Donar en Línea]  |  [Contactar al Comité de Desarrollo de la Junta]
+Para información sobre opciones de donaciones planificadas o acuerdos de donaciones mayores, [contáctenos](/es/contact/).

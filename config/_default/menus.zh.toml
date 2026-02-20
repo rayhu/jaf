@@ -33,6 +33,11 @@
   url    = "/zh/donate/"
   weight = 70
 
+[[main]]
+  name   = "联系我们"
+  url    = "/zh/contact/"
+  weight = 80
+
 # ─── Footer links ─────────────────────────────────────────────────────────────
 
 [[footer]]
@@ -44,6 +49,16 @@
   name   = "合规"
   url    = "/zh/compliance/"
   weight = 20
+
+[[footer]]
+  name   = "隐私政策"
+  url    = "/zh/privacy/"
+  weight = 25
+
+[[footer]]
+  name   = "联系我们"
+  url    = "/zh/contact/"
+  weight = 27
 
 [[footer]]
   name   = "捐款"

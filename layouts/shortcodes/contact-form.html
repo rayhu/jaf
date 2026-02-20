@@ -1,0 +1,115 @@
+{{ $lang := .Page.Language.Lang }}
+{{ if eq $lang "es" }}
+  <div class="jaf-card">
+    <div class="jaf-card-header">
+      <p class="jaf-card-org">Justice Access Foundation &middot; Organización de Caridad Pública 501(c)(3)</p>
+      <h2 class="jaf-card-title">Contáctenos</h2>
+      <p class="jaf-card-sub">Consultas generales, reclutamiento de junta, donaciones y relaciones con medios. Respondemos en un plazo de cinco días hábiles.</p>
+    </div>
+    <div class="jaf-card-body">
+      <form name="contacto" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/es/gracias/">
+        <input type="hidden" name="form-name" value="contacto">
+        <input type="hidden" name="lang" value="es">
+        <p class="jaf-honeypot" aria-hidden="true"><label>No llene este campo: <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <div class="jaf-fields">
+          <p class="jaf-section-label">Su Información</p>
+          <div class="jaf-field-row">
+            <div class="jaf-field"><label for="contact-name-es">Nombre Completo <span class="req" aria-label="requerido">*</span></label><input type="text" id="contact-name-es" name="name" required autocomplete="name" placeholder="Nombre completo"></div>
+            <div class="jaf-field"><label for="contact-email-es">Correo Electrónico <span class="req" aria-label="requerido">*</span></label><input type="email" id="contact-email-es" name="email" required autocomplete="email" placeholder="usted@ejemplo.com"></div>
+          </div>
+          <div class="jaf-field">
+            <label for="contact-subject-es">Asunto <span class="req" aria-label="requerido">*</span></label>
+            <select id="contact-subject-es" name="subject" required>
+              <option value="" disabled selected>Seleccione un asunto</option>
+              <option value="Consulta General">Consulta General</option>
+              <option value="Consulta de Reclutamiento de Junta">Consulta de Reclutamiento de Junta</option>
+              <option value="Consulta de Donación">Consulta de Donación</option>
+              <option value="Medios y Prensa">Medios y Prensa</option>
+              <option value="Información de Programas">Información de Programas</option>
+            </select>
+          </div>
+          <div class="jaf-field"><label for="contact-message-es">Mensaje <span class="req" aria-label="requerido">*</span></label><textarea id="contact-message-es" name="message" required minlength="20" placeholder="Describa su consulta en detalle"></textarea></div>
+        </div>
+        <div class="jaf-submit-section">
+          <button type="submit" class="jaf-submit-btn">Enviar Mensaje</button>
+          <p class="jaf-fine-print">Justice Access Foundation responde a las consultas en un plazo de cinco días hábiles. El envío de este formulario no crea una relación abogado-cliente y no constituye asesoramiento legal.</p>
+        </div>
+      </form>
+    </div>
+  </div>
+{{ else if eq $lang "zh" }}
+  <div class="jaf-card">
+    <div class="jaf-card-header">
+      <p class="jaf-card-org">正义获取基金会 &middot; 加利福尼亚州 501(c)(3) 公共慈善机构</p>
+      <h2 class="jaf-card-title">联系我们</h2>
+      <p class="jaf-card-sub">一般咨询、董事会招募、捐款及媒体关系。我们将在五个工作日内回复。</p>
+    </div>
+    <div class="jaf-card-body">
+      <form name="lianxi" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/zh/xiesie/">
+        <input type="hidden" name="form-name" value="lianxi">
+        <input type="hidden" name="lang" value="zh">
+        <p class="jaf-honeypot" aria-hidden="true"><label>请勿填写此字段: <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <div class="jaf-fields">
+          <p class="jaf-section-label">您的信息</p>
+          <div class="jaf-field-row">
+            <div class="jaf-field"><label for="contact-name-zh">姓名 <span class="req" aria-label="必填">*</span></label><input type="text" id="contact-name-zh" name="name" required autocomplete="name" placeholder="您的姓名"></div>
+            <div class="jaf-field"><label for="contact-email-zh">电子邮件 <span class="req" aria-label="必填">*</span></label><input type="email" id="contact-email-zh" name="email" required autocomplete="email" placeholder="您的邮件地址"></div>
+          </div>
+          <div class="jaf-field">
+            <label for="contact-subject-zh">主题 <span class="req" aria-label="必填">*</span></label>
+            <select id="contact-subject-zh" name="subject" required>
+              <option value="" disabled selected>请选择主题</option>
+              <option value="一般咨询">一般咨询</option>
+              <option value="董事会招募咨询">董事会招募咨询</option>
+              <option value="捐款咨询">捐款咨询</option>
+              <option value="媒体与新闻">媒体与新闻</option>
+              <option value="项目信息">项目信息</option>
+            </select>
+          </div>
+          <div class="jaf-field"><label for="contact-message-zh">留言 <span class="req" aria-label="必填">*</span></label><textarea id="contact-message-zh" name="message" required minlength="20" placeholder="请详细描述您的咨询内容"></textarea></div>
+        </div>
+        <div class="jaf-submit-section">
+          <button type="submit" class="jaf-submit-btn">发送消息</button>
+          <p class="jaf-fine-print">正义获取基金会将在五个工作日内回复咨询。提交本表格不构成律师-委托人关系，亦不构成法律建议。</p>
+        </div>
+      </form>
+    </div>
+  </div>
+{{ else }}
+  <div class="jaf-card">
+    <div class="jaf-card-header">
+      <p class="jaf-card-org">Justice Access Foundation &middot; California 501(c)(3) Public Charity</p>
+      <h2 class="jaf-card-title">Contact</h2>
+      <p class="jaf-card-sub">General inquiries, board recruitment, donation inquiries, and media relations. We respond within five business days.</p>
+    </div>
+    <div class="jaf-card-body">
+      <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
+        <input type="hidden" name="form-name" value="contact">
+        <p class="jaf-honeypot" aria-hidden="true"><label>Do not fill this field: <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <div class="jaf-fields">
+          <p class="jaf-section-label">Your Information</p>
+          <div class="jaf-field-row">
+            <div class="jaf-field"><label for="contact-name">Full Name <span class="req" aria-label="required">*</span></label><input type="text" id="contact-name" name="name" required autocomplete="name" placeholder="Full name"></div>
+            <div class="jaf-field"><label for="contact-email">Email Address <span class="req" aria-label="required">*</span></label><input type="email" id="contact-email" name="email" required autocomplete="email" placeholder="you@example.com"></div>
+          </div>
+          <div class="jaf-field">
+            <label for="contact-subject">Subject <span class="req" aria-label="required">*</span></label>
+            <select id="contact-subject" name="subject" required>
+              <option value="" disabled selected>Select a subject</option>
+              <option value="General Inquiry">General Inquiry</option>
+              <option value="Board Recruitment Inquiry">Board Recruitment Inquiry</option>
+              <option value="Donation Inquiry">Donation Inquiry</option>
+              <option value="Media and Press">Media and Press</option>
+              <option value="Program Information">Program Information</option>
+            </select>
+          </div>
+          <div class="jaf-field"><label for="contact-message">Message <span class="req" aria-label="required">*</span></label><textarea id="contact-message" name="message" required minlength="20" placeholder="Please describe your inquiry in detail"></textarea></div>
+        </div>
+        <div class="jaf-submit-section">
+          <button type="submit" class="jaf-submit-btn">Send Message</button>
+          <p class="jaf-fine-print">Justice Access Foundation responds to inquiries within five business days. Submission of this form does not create an attorney-client relationship and does not constitute legal advice.</p>
+        </div>
+      </form>
+    </div>
+  </div>
+{{ end }}

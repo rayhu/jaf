@@ -71,15 +71,14 @@ JAF is an independent public charity. No donor, funder, or commercial entity con
 
 ---
 
-## How to Donate
+## Donation Inquiry Form
 
-**Online**
-Secure contributions are accepted via [payment processor]. All transactions are encrypted and receipted automatically.
+{{< donate-form >}}
+
+---
 
 **By Mail**
 Checks payable to "Justice Access Foundation" may be mailed to JAF's principal office address.
 
 **Planned Giving and Major Gifts**
-For information on planned giving options or major gift arrangements, contact JAF's Board Development Committee.
-
-[Donate Online]  |  [Contact the Board Development Committee]
+For information on planned giving options or major gift arrangements, [contact us](/contact/).

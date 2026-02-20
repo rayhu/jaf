@@ -33,6 +33,11 @@
   url    = "/donate/"
   weight = 70
 
+[[main]]
+  name   = "Contact"
+  url    = "/contact/"
+  weight = 80
+
 # ─── Footer links ─────────────────────────────────────────────────────────────
 
 [[footer]]
@@ -44,6 +49,16 @@
   name   = "Compliance"
   url    = "/compliance/"
   weight = 20
+
+[[footer]]
+  name   = "Privacy"
+  url    = "/privacy/"
+  weight = 25
+
+[[footer]]
+  name   = "Contact"
+  url    = "/contact/"
+  weight = 27
 
 [[footer]]
   name   = "Donate"

@@ -33,6 +33,11 @@
   url    = "/es/donate/"
   weight = 70
 
+[[main]]
+  name   = "Contacto"
+  url    = "/es/contact/"
+  weight = 80
+
 # ─── Footer links ─────────────────────────────────────────────────────────────
 
 [[footer]]
@@ -44,6 +49,16 @@
   name   = "Cumplimiento"
   url    = "/es/compliance/"
   weight = 20
+
+[[footer]]
+  name   = "Privacidad"
+  url    = "/es/privacy/"
+  weight = 25
+
+[[footer]]
+  name   = "Contacto"
+  url    = "/es/contact/"
+  weight = 27
 
 [[footer]]
   name   = "Donar"
