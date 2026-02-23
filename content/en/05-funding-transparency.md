@@ -5,10 +5,6 @@ slug: "funding"
 layout: "simple"
 ---
 
-# Funding and Transparency
-
----
-
 ## Funding Structure Overview
 
 Justice Access Foundation maintains a structured, multi-stage approach to funding designed to ensure financial stability, broad public support, and compliance with IRS public charity classification requirements.

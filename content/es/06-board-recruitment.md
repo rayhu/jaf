@@ -5,10 +5,6 @@ slug: "board"
 layout: "simple"
 ---
 
-# Reclutamiento para la Junta Directiva
-
----
-
 ## Invitación a Servir
 
 Justice Access Foundation invita a personas calificadas a considerar el servicio en su Junta Directiva voluntaria. La Fundación busca líderes experimentados que estén comprometidos con el acceso a la justicia, la credibilidad institucional y una sólida gobernanza sin fines de lucro.
@@ -31,12 +27,14 @@ JAF busca candidatos para la junta cuyos antecedentes demuestren:
 ## Calificaciones
 
 **Requeridas**
+
 - Experiencia profesional demostrada relevante para las áreas de misión de JAF (legal, servicios sociales, gestión sin fines de lucro, administración pública o campo relacionado)
 - Capacidad para leer y comprender estados financieros sin fines de lucro (balance general, estado de ingresos, Formulario 990 del IRS)
 - Sin historial previo de mala conducta fiduciaria, acción regulatoria o disciplina profesional
 - Capacidad para comprometerse con la asistencia y preparación para las reuniones trimestrales de la junta
 
 **Preferidas**
+
 - Servicio previo en la junta de una organización sin fines de lucro de California
 - Experiencia con los requisitos de cumplimiento del IRS 501(c)(3)
 - Conocimiento de la ley de corporaciones sin fines de lucro de California

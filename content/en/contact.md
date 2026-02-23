@@ -5,8 +5,4 @@ slug: "contact"
 layout: "simple"
 ---
 
-# Contact
-
----
-
 {{< contact-form >}}

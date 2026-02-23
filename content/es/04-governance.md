@@ -5,10 +5,6 @@ slug: "governance"
 layout: "simple"
 ---
 
-# Gobernanza
-
----
-
 ## Estructura de la Junta
 
 Justice Access Foundation está gobernada por una Junta Directiva compuesta por miembros voluntarios independientes. La Junta tiene la responsabilidad fiduciaria definitiva de las operaciones, la gestión financiera y el cumplimiento de la misión de la organización.

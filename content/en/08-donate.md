@@ -5,10 +5,6 @@ slug: "donate"
 layout: "simple"
 ---
 
-# Donate
-
----
-
 ## Support Charitable Access to Justice
 
 Justice Access Foundation is a California nonprofit public benefit corporation and IRS-recognized 501(c)(3) public charity. Contributions to JAF support charitable programs that expand access to the civil legal system for individuals and families in California who lack adequate legal resources.

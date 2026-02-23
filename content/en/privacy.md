@@ -5,9 +5,7 @@ slug: "privacy"
 layout: "simple"
 ---
 
-# Privacy Policy
-
-*Effective Date: [TBD upon launch]*
+_Effective Date: [TBD upon launch]_
 
 ---
 
@@ -107,4 +105,4 @@ Justice Access Foundation
 
 ---
 
-*This Privacy Policy does not constitute legal advice. JAF is not a law firm and does not provide legal services.*
+_This Privacy Policy does not constitute legal advice. JAF is not a law firm and does not provide legal services._

@@ -2,13 +2,14 @@
 
 ## Prerequisites
 
-| Tool | Version | Install |
-|------|---------|---------|
-| Hugo (extended) | ≥ 0.120.0 | `brew install hugo` |
-| Go | ≥ 1.21 | `brew install go` |
-| Git | any | pre-installed on macOS |
+| Tool            | Version   | Install                |
+| --------------- | --------- | ---------------------- |
+| Hugo (extended) | ≥ 0.120.0 | `brew install hugo`    |
+| Go              | ≥ 1.21    | `brew install go`      |
+| Git             | any       | pre-installed on macOS |
 
 Verify:
+
 ```bash
 hugo version   # should show "extended"
 go version
@@ -42,7 +43,7 @@ Open http://localhost:1313 in your browser.
 
 - English site: http://localhost:1313/
 - Spanish site: http://localhost:1313/es/
-- Chinese site:  http://localhost:1313/zh/
+- Chinese site: http://localhost:1313/zh/
 
 The language switcher in the header switches between all three automatically.
 
@@ -114,14 +115,15 @@ and update `baseURL` in `hugo.toml`.
 
 Search the content files for these placeholders and replace with real values:
 
-| Placeholder | Replace with |
-|---|---|
-| `[TBD]` / `[Por Determinar]` / `待定` | IRS-issued EIN |
+| Placeholder                                                     | Replace with                                               |
+| --------------------------------------------------------------- | ---------------------------------------------------------- |
+| `[TBD]` / `[Por Determinar]` / `待定`                           | IRS-issued EIN                                             |
 | `[payment processor]` / `[procesador de pago]` / `[支付处理商]` | Donation processor name (e.g., Stripe, PayPal Giving Fund) |
-| `https://justiceaccessfoundation.org/` in `hugo.toml` | Actual domain |
-| `[Board Development Committee contact]` | Contact email or form URL |
+| `https://justiceaccessfoundation.org/` in `hugo.toml`           | Actual domain                                              |
+| `[Board Development Committee contact]`                         | Contact email or form URL                                  |
 
 Quick search:
+
 ```bash
 grep -r "TBD\|Por Determinar\|待定\|payment processor" content/
 ```

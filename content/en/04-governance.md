@@ -5,10 +5,6 @@ slug: "governance"
 layout: "simple"
 ---
 
-# Governance
-
----
-
 ## Board Structure
 
 Justice Access Foundation is governed by a Board of Directors composed of independent volunteer members. The Board bears ultimate fiduciary responsibility for the organization's operations, financial management, and mission compliance.

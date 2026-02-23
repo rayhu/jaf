@@ -5,10 +5,6 @@ slug: "compliance"
 layout: "simple"
 ---
 
-# Compliance and Legal Status
-
----
-
 ## 501(c)(3) Recognition
 
 Justice Access Foundation has obtained recognition from the Internal Revenue Service as an organization exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code. This recognition is granted through a formal determination letter issued by the IRS following review of the organization's Form 1023 application and governing documents.
@@ -25,14 +21,14 @@ Section 501(c)(3) status means:
 
 JAF is classified as a **public charity**, not a private foundation. This distinction is legally significant:
 
-| Characteristic | Public Charity (JAF) | Private Foundation |
-|---|---|---|
-| Primary funding source | Broad public support | Typically one or few donors |
-| IRS oversight regime | Standard 501(c)(3) rules | Enhanced excise tax rules (IRC §§ 4940–4946) |
-| Required annual filing | Form 990 | Form 990-PF |
-| Donor deductibility (cash) | Up to 60% of AGI | Up to 30% of AGI |
-| Self-dealing rules | Conflict of interest policy | Strict excise tax prohibition |
-| Mandatory distributions | Not required | Minimum 5% annual distribution |
+| Characteristic             | Public Charity (JAF)        | Private Foundation                           |
+| -------------------------- | --------------------------- | -------------------------------------------- |
+| Primary funding source     | Broad public support        | Typically one or few donors                  |
+| IRS oversight regime       | Standard 501(c)(3) rules    | Enhanced excise tax rules (IRC §§ 4940–4946) |
+| Required annual filing     | Form 990                    | Form 990-PF                                  |
+| Donor deductibility (cash) | Up to 60% of AGI            | Up to 30% of AGI                             |
+| Self-dealing rules         | Conflict of interest policy | Strict excise tax prohibition                |
+| Mandatory distributions    | Not required                | Minimum 5% annual distribution               |
 
 JAF's public charity classification is maintained through ongoing compliance with the IRS public support test.
 

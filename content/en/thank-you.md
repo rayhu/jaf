@@ -5,10 +5,6 @@ slug: "thank-you"
 layout: "simple"
 ---
 
-# Thank You
-
----
-
 Your submission has been received. A member of our team will follow up within five business days.
 
 If you submitted a donation inquiry, you will receive secure payment instructions by email.

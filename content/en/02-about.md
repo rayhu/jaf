@@ -5,10 +5,6 @@ slug: "about"
 layout: "simple"
 ---
 
-# About Justice Access Foundation
-
----
-
 ## Legal Identity
 
 Justice Access Foundation (JAF) is organized and operates under three distinct legal frameworks:

@@ -41,4 +41,4 @@ Justice Access Foundation está gobernada por una Junta Directiva voluntaria e i
 
 Su contribución a Justice Access Foundation apoya programas caritativos que sirven a los californianos que necesitan acceso legal civil. JAF es una organización de caridad pública registrada bajo 501(c)(3) (EIN: [Por Determinar]). Las donaciones son deducibles de impuestos en la medida permitida por la ley. Ninguna contribución de un donante otorga derecho alguno a influir en las decisiones de gobernanza o programa de la organización.
 
-[Donar Ahora]  |  [Conocer Nuestros Programas]
+[Donar Ahora] | [Conocer Nuestros Programas]

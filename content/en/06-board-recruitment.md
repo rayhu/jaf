@@ -5,10 +5,6 @@ slug: "board"
 layout: "simple"
 ---
 
-# Board Recruitment
-
----
-
 ## Invitation to Serve
 
 Justice Access Foundation invites qualified individuals to consider service on its volunteer Board of Directors. The Foundation seeks experienced leaders who are committed to access to justice, institutional credibility, and sound nonprofit governance.
@@ -31,12 +27,14 @@ JAF seeks board candidates whose backgrounds demonstrate:
 ## Qualifications
 
 **Required**
+
 - Demonstrated professional experience relevant to JAF's mission areas (legal, social services, nonprofit management, public administration, or related field)
 - Ability to read and understand nonprofit financial statements (balance sheet, income statement, IRS Form 990)
 - No prior history of fiduciary misconduct, regulatory action, or professional discipline
 - Ability to commit to quarterly board meeting attendance and advance preparation
 
 **Preferred**
+
 - Prior board service with a California nonprofit organization
 - Experience with IRS 501(c)(3) compliance requirements
 - Knowledge of California nonprofit corporation law

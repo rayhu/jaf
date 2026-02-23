@@ -41,4 +41,4 @@ Justice Access Foundation is governed by an independent volunteer Board of Direc
 
 Your contribution to Justice Access Foundation supports charitable programs serving Californians in need of civil legal access. JAF is a registered 501(c)(3) public charity (EIN: [TBD]). Donations are tax-deductible to the extent permitted by law. No donor contribution confers any right to influence organizational governance or program decisions.
 
-[Donate Now]  |  [Learn More About Our Programs]
+[Donate Now] | [Learn More About Our Programs]

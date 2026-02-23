@@ -18,16 +18,16 @@ content/
 
 Each language directory contains eight page files with structurally aligned content:
 
-| File | Page |
-|------|------|
-| 01-homepage.md | Homepage |
-| 02-about.md | About Us |
-| 03-programs.md | Programs |
-| 04-governance.md | Governance |
-| 05-funding-transparency.md | Funding & Transparency |
-| 06-board-recruitment.md | Board Recruitment |
-| 07-compliance-legal.md | Compliance & Legal Status |
-| 08-donate.md | Donate |
+| File                       | Page                      |
+| -------------------------- | ------------------------- |
+| 01-homepage.md             | Homepage                  |
+| 02-about.md                | About Us                  |
+| 03-programs.md             | Programs                  |
+| 04-governance.md           | Governance                |
+| 05-funding-transparency.md | Funding & Transparency    |
+| 06-board-recruitment.md    | Board Recruitment         |
+| 07-compliance-legal.md     | Compliance & Legal Status |
+| 08-donate.md               | Donate                    |
 
 ---
 
@@ -51,4 +51,4 @@ The following values require substitution before publication:
 
 ---
 
-*Content generated for Justice Access Foundation. All content is informational and does not constitute legal advice.*
+_Content generated for Justice Access Foundation. All content is informational and does not constitute legal advice._

@@ -8,6 +8,13 @@
     <language>es</language>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/contact/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cumplimiento y Estado Legal</title>
       <link>http://localhost:1313/es/compliance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,6 +40,20 @@
       <link>http://localhost:1313/es/governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/es/governance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gracias</title>
+      <link>http://localhost:1313/es/gracias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/gracias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Política de Privacidad</title>
+      <link>http://localhost:1313/es/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/privacy/</guid>
       <description></description>
     </item>
     <item>

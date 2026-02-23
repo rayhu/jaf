@@ -5,10 +5,6 @@ slug: "funding"
 layout: "simple"
 ---
 
-# Financiamiento y Transparencia
-
----
-
 ## Descripción General de la Estructura de Financiamiento
 
 Justice Access Foundation mantiene un enfoque estructurado y de múltiples etapas para el financiamiento, diseñado para garantizar la estabilidad financiera, el amplio apoyo público y el cumplimiento con los requisitos de clasificación de caridad pública del IRS.

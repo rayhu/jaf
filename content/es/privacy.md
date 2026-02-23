@@ -5,9 +5,7 @@ slug: "privacy"
 layout: "simple"
 ---
 
-# Política de Privacidad
-
-*Fecha de vigencia: [Por determinar al momento del lanzamiento]*
+_Fecha de vigencia: [Por determinar al momento del lanzamiento]_
 
 ---
 
@@ -105,4 +103,4 @@ Justice Access Foundation
 
 ---
 
-*Esta Política de Privacidad no constituye asesoramiento legal. JAF no es un bufete de abogados y no proporciona servicios legales.*
+_Esta Política de Privacidad no constituye asesoramiento legal. JAF no es un bufete de abogados y no proporciona servicios legales._

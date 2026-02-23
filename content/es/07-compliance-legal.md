@@ -5,10 +5,6 @@ slug: "compliance"
 layout: "simple"
 ---
 
-# Cumplimiento y Estado Legal
-
----
-
 ## Reconocimiento 501(c)(3)
 
 Justice Access Foundation ha obtenido el reconocimiento del Servicio de Impuestos Internos como organización exenta de impuestos federales sobre la renta bajo la Sección 501(c)(3) del Código de Rentas Internas. Este reconocimiento se otorga a través de una carta de determinación formal emitida por el IRS luego de la revisión de la solicitud del Formulario 1023 de la organización y sus documentos de gobernanza.
@@ -25,14 +21,14 @@ El estado 501(c)(3) significa:
 
 JAF está clasificada como una **organización de caridad pública**, no como una fundación privada. Esta distinción es legalmente significativa:
 
-| Característica | Caridad Pública (JAF) | Fundación Privada |
-|---|---|---|
-| Fuente principal de financiamiento | Amplio apoyo público | Típicamente uno o pocos donantes |
-| Régimen de supervisión del IRS | Reglas estándar 501(c)(3) | Reglas de impuesto especial mejoradas (IRC §§ 4940–4946) |
-| Presentación anual requerida | Formulario 990 | Formulario 990-PF |
-| Deducibilidad del donante (efectivo) | Hasta el 60% del AGI | Hasta el 30% del AGI |
-| Reglas de autobeneficio | Política de conflicto de intereses | Prohibición estricta con impuesto especial |
-| Distribuciones obligatorias | No requerida | Distribución mínima anual del 5% |
+| Característica                       | Caridad Pública (JAF)              | Fundación Privada                                        |
+| ------------------------------------ | ---------------------------------- | -------------------------------------------------------- |
+| Fuente principal de financiamiento   | Amplio apoyo público               | Típicamente uno o pocos donantes                         |
+| Régimen de supervisión del IRS       | Reglas estándar 501(c)(3)          | Reglas de impuesto especial mejoradas (IRC §§ 4940–4946) |
+| Presentación anual requerida         | Formulario 990                     | Formulario 990-PF                                        |
+| Deducibilidad del donante (efectivo) | Hasta el 60% del AGI               | Hasta el 30% del AGI                                     |
+| Reglas de autobeneficio              | Política de conflicto de intereses | Prohibición estricta con impuesto especial               |
+| Distribuciones obligatorias          | No requerida                       | Distribución mínima anual del 5%                         |
 
 La clasificación de caridad pública de JAF se mantiene mediante el cumplimiento continuo de la prueba de apoyo público del IRS.
 

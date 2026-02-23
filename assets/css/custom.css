@@ -5,11 +5,13 @@
 
 /* Slightly increase base font size for long-form content readability */
 :root {
-  --font-size-base: 1.0rem;
+  --font-size-base: 1rem;
 }
 
 /* Use a more institutional serif stack for headings */
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-family: "Georgia", "Times New Roman", serif;
   letter-spacing: -0.01em;
 }
@@ -28,7 +30,7 @@ table {
 }
 
 th {
-  background-color: rgba(0,0,0,0.04);
+  background-color: rgba(0, 0, 0, 0.04);
   font-weight: 600;
 }
 
@@ -57,7 +59,9 @@ a[href$="/zh/donate/"] {
   max-width: 600px;
   background: #ffffff;
   border-top: 3px solid #1e293b;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.06), 0 4px 24px rgba(0,0,0,0.06);
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.06),
+    0 4px 24px rgba(0, 0, 0, 0.06);
   margin: 2rem 0;
 }
 
@@ -67,7 +71,7 @@ a[href$="/zh/donate/"] {
 }
 
 .jaf-card-org {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 0.6875rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -76,7 +80,7 @@ a[href$="/zh/donate/"] {
 }
 
 .jaf-card-title {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 1.375rem;
   font-weight: 700;
   color: #1e293b;
@@ -90,10 +94,12 @@ a[href$="/zh/donate/"] {
   line-height: 1.55;
 }
 
-.jaf-card-body { padding: 1.875rem 2.25rem 2rem; }
+.jaf-card-body {
+  padding: 1.875rem 2.25rem 2rem;
+}
 
 .jaf-section-label {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 0.625rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
@@ -105,7 +111,9 @@ a[href$="/zh/donate/"] {
 
 /* ─── Amount Grid ────────────────────────────────────────────────────────── */
 
-.jaf-amounts { margin-bottom: 2rem; }
+.jaf-amounts {
+  margin-bottom: 2rem;
+}
 
 .jaf-amount-grid {
   display: grid;
@@ -135,23 +143,33 @@ a[href$="/zh/donate/"] {
   padding: 0.875rem 0.25rem;
   border-right: 1px solid #cbd5e1;
   background: #ffffff;
-  transition: background 0.1s, color 0.1s;
+  transition:
+    background 0.1s,
+    color 0.1s;
   user-select: none;
 }
 
-.jaf-amount-label:last-child .jaf-amount-face { border-right: none; }
+.jaf-amount-label:last-child .jaf-amount-face {
+  border-right: none;
+}
 
 .jaf-amount-value {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 0.9375rem;
   font-weight: 700;
   color: #475569;
   line-height: 1;
 }
 
-.jaf-amount-label input:checked ~ .jaf-amount-face { background: #1e293b; }
-.jaf-amount-label input:checked ~ .jaf-amount-face .jaf-amount-value { color: #ffffff; }
-.jaf-amount-label:hover input:not(:checked) ~ .jaf-amount-face { background: #f8fafc; }
+.jaf-amount-label input:checked ~ .jaf-amount-face {
+  background: #1e293b;
+}
+.jaf-amount-label input:checked ~ .jaf-amount-face .jaf-amount-value {
+  color: #ffffff;
+}
+.jaf-amount-label:hover input:not(:checked) ~ .jaf-amount-face {
+  background: #f8fafc;
+}
 .jaf-amount-label input:focus-visible ~ .jaf-amount-face {
   outline: 2px solid #475569;
   outline-offset: -3px;
@@ -162,10 +180,12 @@ a[href$="/zh/donate/"] {
   margin-top: 0.75rem;
   align-items: stretch;
 }
-.jaf-custom-row.is-visible { display: flex; }
+.jaf-custom-row.is-visible {
+  display: flex;
+}
 
 .jaf-custom-prefix {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 1rem;
   color: #475569;
   padding: 0.625rem 0.875rem;
@@ -180,7 +200,7 @@ a[href$="/zh/donate/"] {
 
 .jaf-custom-input {
   flex: 1;
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 1rem;
   color: #1e293b;
   padding: 0.625rem 0.875rem;
@@ -190,7 +210,9 @@ a[href$="/zh/donate/"] {
   -webkit-appearance: none;
   appearance: none;
   outline: none;
-  transition: border-color 0.12s, box-shadow 0.12s;
+  transition:
+    border-color 0.12s,
+    box-shadow 0.12s;
 }
 .jaf-custom-input:focus {
   border-color: #475569;
@@ -199,7 +221,9 @@ a[href$="/zh/donate/"] {
 
 /* ─── Fields ─────────────────────────────────────────────────────────────── */
 
-.jaf-fields { margin-bottom: 1.75rem; }
+.jaf-fields {
+  margin-bottom: 1.75rem;
+}
 
 .jaf-field-row {
   display: grid;
@@ -213,7 +237,9 @@ a[href$="/zh/donate/"] {
   flex-direction: column;
   margin-bottom: 1rem;
 }
-.jaf-field:last-child { margin-bottom: 0; }
+.jaf-field:last-child {
+  margin-bottom: 0;
+}
 
 .jaf-field label {
   font-size: 0.8125rem;
@@ -229,7 +255,10 @@ a[href$="/zh/donate/"] {
   font-size: 0.75rem;
 }
 
-.req { color: #b91c1c; margin-left: 0.125rem; }
+.req {
+  color: #b91c1c;
+  margin-left: 0.125rem;
+}
 
 .jaf-field input,
 .jaf-field textarea,
@@ -242,7 +271,9 @@ a[href$="/zh/donate/"] {
   border-radius: 0;
   padding: 0.625rem 0.875rem;
   outline: none;
-  transition: border-color 0.12s, box-shadow 0.12s;
+  transition:
+    border-color 0.12s,
+    box-shadow 0.12s;
   -webkit-appearance: none;
   appearance: none;
   width: 100%;
@@ -256,7 +287,9 @@ a[href$="/zh/donate/"] {
 }
 
 .jaf-field input::placeholder,
-.jaf-field textarea::placeholder { color: #94a3b8; }
+.jaf-field textarea::placeholder {
+  color: #94a3b8;
+}
 
 .jaf-field select {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%2364748b' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
@@ -290,7 +323,7 @@ a[href$="/zh/donate/"] {
 .jaf-submit-btn {
   display: block;
   width: 100%;
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 0.8125rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -302,8 +335,12 @@ a[href$="/zh/donate/"] {
   cursor: pointer;
   transition: background 0.12s;
 }
-.jaf-submit-btn:hover  { background: #334155; }
-.jaf-submit-btn:active { background: #0f172a; }
+.jaf-submit-btn:hover {
+  background: #334155;
+}
+.jaf-submit-btn:active {
+  background: #0f172a;
+}
 .jaf-submit-btn:focus-visible {
   outline: 2px solid #475569;
   outline-offset: 2px;
@@ -321,12 +358,24 @@ a[href$="/zh/donate/"] {
 /* ─── Responsive ─────────────────────────────────────────────────────────── */
 
 @media (max-width: 520px) {
-  .jaf-card-header { padding: 1.5rem 1.25rem 1.25rem; }
-  .jaf-card-body   { padding: 1.5rem 1.25rem 1.5rem; }
-  .jaf-field-row   { grid-template-columns: 1fr; }
-  .jaf-amount-grid { grid-template-columns: repeat(3, 1fr); }
-  .jaf-amount-label:nth-child(3) .jaf-amount-face { border-right: none; }
-  .jaf-amount-label:nth-child(4) .jaf-amount-face { border-top: 1px solid #cbd5e1; }
+  .jaf-card-header {
+    padding: 1.5rem 1.25rem 1.25rem;
+  }
+  .jaf-card-body {
+    padding: 1.5rem 1.25rem 1.5rem;
+  }
+  .jaf-field-row {
+    grid-template-columns: 1fr;
+  }
+  .jaf-amount-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .jaf-amount-label:nth-child(3) .jaf-amount-face {
+    border-right: none;
+  }
+  .jaf-amount-label:nth-child(4) .jaf-amount-face {
+    border-top: 1px solid #cbd5e1;
+  }
   .jaf-amount-label:nth-child(5) .jaf-amount-face {
     border-top: 1px solid #cbd5e1;
     border-right: none;

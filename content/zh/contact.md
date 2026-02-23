@@ -5,8 +5,4 @@ slug: "contact"
 layout: "simple"
 ---
 
-# 联系我们
-
----
-
 {{< contact-form >}}

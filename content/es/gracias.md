@@ -5,10 +5,6 @@ slug: "gracias"
 layout: "simple"
 ---
 
-# Gracias
-
----
-
 Su envío ha sido recibido. Un miembro de nuestro equipo le responderá en un plazo de cinco días hábiles.
 
 Si envió una consulta de donación, recibirá instrucciones de pago seguras por correo electrónico.

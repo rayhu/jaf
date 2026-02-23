@@ -5,10 +5,6 @@ slug: "donate"
 layout: "simple"
 ---
 
-# Donar
-
----
-
 ## Apoyar el Acceso Caritativo a la Justicia
 
 Justice Access Foundation es una corporación pública sin fines de lucro de California y una organización de caridad pública reconocida por el IRS bajo 501(c)(3). Las contribuciones a JAF apoyan programas caritativos que amplían el acceso al sistema legal civil para individuos y familias en California que carecen de recursos legales adecuados.

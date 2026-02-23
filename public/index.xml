@@ -29,6 +29,13 @@
       <description></description>
     </item>
     <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Donate</title>
       <link>http://localhost:1313/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,10 +57,24 @@
       <description></description>
     </item>
     <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Programs</title>
       <link>http://localhost:1313/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/programs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thank You</title>
+      <link>http://localhost:1313/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thank-you/</guid>
       <description></description>
     </item>
   </channel>

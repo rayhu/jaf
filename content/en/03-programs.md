@@ -5,8 +5,6 @@ slug: "programs"
 layout: "simple"
 ---
 
-# Programs
-
 Justice Access Foundation operates structured charitable programs in the following areas. All programs are charitable in nature and are designed to serve an indefinite class of beneficiaries in California. No program is conditioned on or connected to the purchase or use of any commercial service.
 
 ---
@@ -20,12 +18,14 @@ This program provides low-income individuals and families in California with acc
 Low-income renters and occupants facing housing proceedings, eviction notices, or housing authority actions in California, without adequate access to legal resources.
 
 **Services Provided**
+
 - Plain-language guides to California tenant rights and eviction procedures
 - Assistance in understanding court notices, summons, and response deadlines
 - Referral to qualified legal aid organizations, law school clinics, and licensed attorneys in good standing
 - Information on emergency housing assistance programs and administrative protections
 
 **Safeguards**
+
 - All educational materials are reviewed for accuracy and compliance with current California law
 - Staff and volunteers providing information are subject to written scope-of-service limitations
 - No financial or referral relationship with any commercial housing, rental, or property management entity
@@ -44,6 +44,7 @@ This program assists workers in California who have experienced wage theft, unpa
 Current and former workers in California who have experienced wage theft or labor law violations and who lack adequate access to legal resources.
 
 **Services Provided**
+
 - Plain-language explanations of California wage and hour laws
 - Guidance on filing wage claims with the California Labor Commissioner
 - Information on workers' rights under federal and state law
@@ -51,6 +52,7 @@ Current and former workers in California who have experienced wage theft or labo
 - Educational workshops on wage protection and labor rights
 
 **Safeguards**
+
 - Content is regularly reviewed to reflect current law and enforcement guidance
 - No representation made that JAF can recover wages or represent workers in proceedings
 - No referral or financial arrangement with any commercial staffing, payroll, or employer-side service
@@ -69,6 +71,7 @@ This program assists individuals in California who must navigate civil court pro
 Self-represented litigants in California civil courts, including individuals involved in small claims, unlawful detainer, limited family law proceedings, and administrative hearings.
 
 **Services Provided**
+
 - Plain-language guides to civil procedure and court filing requirements
 - Assistance in locating and understanding official court forms
 - Orientation to courtroom procedures and hearing formats
@@ -76,6 +79,7 @@ Self-represented litigants in California civil courts, including individuals inv
 - Multilingual informational materials
 
 **Safeguards**
+
 - All guidance is limited to publicly available procedural information
 - No advice on legal strategy, case outcomes, or litigation tactics is provided
 - All service providers are trained on the distinction between legal information and legal advice
@@ -94,12 +98,14 @@ This program produces and disseminates plain-language legal information in multi
 General public in California, with emphasis on communities with limited English proficiency, recent immigrants, and individuals with limited prior exposure to the U.S. legal system.
 
 **Services Provided**
+
 - Multilingual legal information publications and guides
 - Community information workshops and presentations
 - Online resources accessible to the general public
 - Collaboration with libraries, community centers, and nonprofit organizations for distribution
 
 **Safeguards**
+
 - Content is reviewed by qualified legal professionals prior to publication
 - All materials clearly state that the content is informational only and does not constitute legal advice
 - No commercial advertising or promotion is included in any educational material

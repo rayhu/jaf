@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+public/
+resources/_gen/
+
+# Generated files
+*.min.js
+*.min.css
+*.bundle.*.css
+*.bundle.*.js
+
+# Hugo template files (contain Go template syntax)
+layouts/
+# Hugo
+resources/
+
+# Other
+.netlify/
+.DS_Store
