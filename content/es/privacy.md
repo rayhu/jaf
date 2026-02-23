@@ -11,7 +11,7 @@ _Fecha de vigencia: [Por determinar al momento del lanzamiento]_
 
 ## Descripción General
 
-Justice Access Foundation ("JAF", "nosotros" o "nuestro") es una corporación pública sin fines de lucro de California y organización de caridad pública reconocida bajo 501(c)(3). Esta Política de Privacidad describe cómo JAF recopila, usa, retiene y protege la información enviada a través de este sitio web (justiceaccessfoundation.org).
+Justice Access Foundation ("JAF", "nosotros" o "nuestro") es una corporación pública sin fines de lucro de California y organización que solicita reconocimiento bajo 501(c)(3). Esta Política de Privacidad describe cómo JAF recopila, usa, retiene y protege la información enviada a través de este sitio web (justiceaccessfoundation.org).
 
 JAF no vende, alquila ni comparte información personal con terceros para fines comerciales.
 

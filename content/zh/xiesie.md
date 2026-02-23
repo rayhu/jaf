@@ -1,6 +1,6 @@
 ---
 title: "感谢您"
-description: "您的提交已收到。正义获取基金会将在五个工作日内与您联系。"
+description: "您的提交已收到。美国司法可及基金会将在五个工作日内与您联系。"
 slug: "xiesie"
 layout: "simple"
 ---

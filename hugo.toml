@@ -33,7 +33,7 @@ defaultContentLanguageInSubdir = false
     contentDir   = "content/es"
 
   [languages.zh]
-    title        = "正义获取基金会"
+    title        = "美国司法可及基金会"
     languageName = "中文"
     weight       = 3
     contentDir   = "content/zh"

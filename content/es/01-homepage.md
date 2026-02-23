@@ -11,7 +11,7 @@ draft: true
 
 ## Declaración de Misión
 
-Justice Access Foundation (JAF) es una corporación pública sin fines de lucro de California y una organización de caridad pública reconocida por el IRS bajo la sección 501(c)(3). Nuestra misión es ampliar el acceso al sistema legal civil, proteger los derechos al debido proceso y trabajar para prevenir la inestabilidad habitacional, el robo de salarios y la explotación que afecta a personas y familias en California que carecen de recursos legales adecuados.
+Justice Access Foundation (JAF) es una corporación pública sin fines de lucro de California y una organización que solicita reconocimiento bajo la sección 501(c)(3). Nuestra misión es ampliar el acceso al sistema legal civil, proteger los derechos al debido proceso y trabajar para prevenir la inestabilidad habitacional, el robo de salarios y la explotación que afecta a personas y familias en California que carecen de recursos legales adecuados.
 
 ---
 

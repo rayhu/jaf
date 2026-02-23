@@ -11,7 +11,7 @@ draft: true
 
 ## Mission Statement
 
-Justice Access Foundation (JAF) is a California nonprofit public benefit corporation and IRS-recognized 501(c)(3) public charity. Our mission is to expand access to the civil legal system, protect due process rights, and work to prevent housing instability, wage theft, and exploitation affecting individuals and families in California who lack adequate legal resources.
+Justice Access Foundation (JAF) is a California nonprofit public benefit corporation and prospective 501(c)(3) public charity. Our mission is to expand access to the civil legal system, protect due process rights, and work to prevent housing instability, wage theft, and exploitation affecting individuals and families in California who lack adequate legal resources.
 
 ---
 
@@ -39,6 +39,6 @@ Justice Access Foundation is governed by an independent volunteer Board of Direc
 
 ## Support Our Work
 
-Your contribution to Justice Access Foundation supports charitable programs serving Californians in need of civil legal access. JAF is a registered 501(c)(3) public charity (EIN: [TBD]). Donations are tax-deductible to the extent permitted by law. No donor contribution confers any right to influence organizational governance or program decisions.
+Your contribution to Justice Access Foundation supports charitable programs serving Californians in need of civil legal access. JAF is seeking 501(c)(3) public charity status (EIN: [TBD]). Donations are tax-deductible to the extent permitted by law. No donor contribution confers any right to influence organizational governance or program decisions.
 
 [Donate Now] | [Learn More About Our Programs]
