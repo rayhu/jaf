@@ -67,7 +67,7 @@ layout: "simple"
 
 ---
 
-## 捐款咨询表格
+## 捐款
 
 {{< donate-form >}}
 

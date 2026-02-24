@@ -67,7 +67,7 @@ JAF es una organización de caridad pública independiente. Ningún donante, fin
 
 ---
 
-## Formulario de Consulta de Donación
+## Donar
 
 {{< donate-form >}}
 

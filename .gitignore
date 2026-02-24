@@ -1,6 +1,9 @@
 # Local Netlify folder
 .netlify
 
+# Hugo build output (regenerate with: hugo)
+public/
+
 # Node.js
 node_modules/
 package-lock.json

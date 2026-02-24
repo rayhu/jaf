@@ -5,4 +5,6 @@ slug: "contact"
 layout: "simple"
 ---
 
+**Email:** [thejusticeaccessfoundation@gmail.com](mailto:thejusticeaccessfoundation@gmail.com)
+
 {{< contact-form >}}

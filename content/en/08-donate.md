@@ -67,7 +67,7 @@ JAF is an independent public charity. No donor, funder, or commercial entity con
 
 ---
 
-## Donation Inquiry Form
+## Donate
 
 {{< donate-form >}}
 
